@@ -1,0 +1,993 @@
+﻿Year,Storm_Name,Landfall_I,Landfall_ID,HURDAT_Cod,HURDAT_C_1,RMW,RMW*1.5,RMW*2,Month,Day,Time_UTC,Formation_,Formation1,Landfall_Lat,Landfall_Long,Landfall_W,Landfall_P,State,SS_Categor,RMW*2_County Name,State_Name,STATE_ABBR,STATE_FIPS,County_FIPS,FIPS_Code,County_State
+1900,Galveston,101,LF1,AL011900,AL011900,15,22.5,30,9,9,200,15,-42.1,29.1,-95.1,120,936,TX,4,Brazoria County,Texas,TX,48,39,48039,Brazoria County Texas
+1900,Galveston,101,LF1,AL011900,AL011900,15,22.5,30,9,9,200,15,-42.1,29.1,-95.1,120,936,TX,4,Galveston County,Texas,TX,48,167,48167,Galveston County Texas
+1900,Galveston,101,LF1,AL011900,AL011900,15,22.5,30,9,9,200,15,-42.1,29.1,-95.1,120,936,TX,4,Harris County,Texas,TX,48,201,48201,Harris County Texas
+1915,Galveston,128,LF1,AL021915,AL021915,25,37.5,50,8,17,700,14.1,-29.6,29.2,-95.1,115,940,TX,4,Brazoria County,Texas,TX,48,39,48039,Brazoria County Texas
+1915,Galveston,128,LF1,AL021915,AL021915,25,37.5,50,8,17,700,14.1,-29.6,29.2,-95.1,115,940,TX,4,Chambers County,Texas,TX,48,71,48071,Chambers County Texas
+1915,Galveston,128,LF1,AL021915,AL021915,25,37.5,50,8,17,700,14.1,-29.6,29.2,-95.1,115,940,TX,4,Galveston County,Texas,TX,48,167,48167,Galveston County Texas
+1915,Galveston,128,LF1,AL021915,AL021915,25,37.5,50,8,17,700,14.1,-29.6,29.2,-95.1,115,940,TX,4,Harris County,Texas,TX,48,201,48201,Harris County Texas
+1915,Galveston,128,LF1,AL021915,AL021915,25,37.5,50,8,17,700,14.1,-29.6,29.2,-95.1,115,940,TX,4,Matagorda County,Texas,TX,48,321,48321,Matagorda County Texas
+1919,Florida Keys_1,138,LF1,AL021919_1,AL021919,15,22.5,30,9,10,700,17.1,-64.8,24.6,-82.9,130,927,FL,4,Monroe County,Florida,FL,12,87,12087,Monroe County Florida
+1919,Florida Keys_2,139,LF2,AL021919_2,AL021919,35,52.5,70,9,14,2100,17.1,-64.8,27.2,-97.3,100,950,TX,3,Aransas County,Texas,TX,48,7,48007,Aransas County Texas
+1919,Florida Keys_2,139,LF2,AL021919_2,AL021919,35,52.5,70,9,14,2100,17.1,-64.8,27.2,-97.3,100,950,TX,3,Calhoun County,Texas,TX,48,57,48057,Calhoun County Texas
+1919,Florida Keys_2,139,LF2,AL021919_2,AL021919,35,52.5,70,9,14,2100,17.1,-64.8,27.2,-97.3,100,950,TX,3,Cameron County,Texas,TX,48,61,48061,Cameron County Texas
+1919,Florida Keys_2,139,LF2,AL021919_2,AL021919,35,52.5,70,9,14,2100,17.1,-64.8,27.2,-97.3,100,950,TX,3,Kenedy County,Texas,TX,48,261,48261,Kenedy County Texas
+1919,Florida Keys_2,139,LF2,AL021919_2,AL021919,35,52.5,70,9,14,2100,17.1,-64.8,27.2,-97.3,100,950,TX,3,Kleberg County,Texas,TX,48,273,48273,Kleberg County Texas
+1919,Florida Keys_2,139,LF2,AL021919_2,AL021919,35,52.5,70,9,14,2100,17.1,-64.8,27.2,-97.3,100,950,TX,3,Nueces County,Texas,TX,48,355,48355,Nueces County Texas
+1919,Florida Keys_2,139,LF2,AL021919_2,AL021919,35,52.5,70,9,14,2100,17.1,-64.8,27.2,-97.3,100,950,TX,3,Refugio County,Texas,TX,48,391,48391,Refugio County Texas
+1919,Florida Keys_2,139,LF2,AL021919_2,AL021919,35,52.5,70,9,14,2100,17.1,-64.8,27.2,-97.3,100,950,TX,3,San Patricio County,Texas,TX,48,409,48409,San Patricio County Texas
+1919,Florida Keys_2,139,LF2,AL021919_2,AL021919,35,52.5,70,9,14,2100,17.1,-64.8,27.2,-97.3,100,950,TX,3,Willacy County,Texas,TX,48,489,48489,Willacy County Texas
+1926,Great Miami_1,148,LF1,AL071926_1,AL071926,20,30,40,9,18,1200,15.4,-46,25.6,-80.3,125,930,FL,4,Broward County,Florida,FL,12,11,12011,Broward County Florida
+1926,Great Miami_1,148,LF1,AL071926_1,AL071926,20,30,40,9,18,1200,15.4,-46,25.6,-80.3,125,930,FL,4,Collier County,Florida,FL,12,21,12021,Collier County Florida
+1926,Great Miami_1,148,LF1,AL071926_1,AL071926,20,30,40,9,18,1200,15.4,-46,25.6,-80.3,125,930,FL,4,Miami-Dade County,Florida,FL,12,86,12086,Miami-Dade County Florida
+1926,Great Miami_1,148,LF1,AL071926_1,AL071926,20,30,40,9,18,1200,15.4,-46,25.6,-80.3,125,930,FL,4,Monroe County,Florida,FL,12,87,12087,Monroe County Florida
+1926,Great Miami_2,149,LF2,AL071926_2,AL071926,15,22.5,30,9,20,2200,15.4,-46,30.3,-87.5,100,955,FL,3,Baldwin County,Alabama,AL,1,3,1003,Baldwin County Alabama
+1926,Great Miami_2,149,LF2,AL071926_2,AL071926,15,22.5,30,9,20,2200,15.4,-46,30.3,-87.5,100,955,FL,3,Escambia County,Florida,FL,12,33,12033,Escambia County Florida
+1926,Great Miami_2,149,LF2,AL071926_2,AL071926,15,22.5,30,9,20,2200,15.4,-46,30.3,-87.5,100,955,FL,3,Santa Rosa County,Florida,FL,12,113,12113,Santa Rosa County Florida
+1928,Lake Okeechobee,151,LF1,AL041928,AL041928,30,45,60,9,17,0,14,-20,26.7,-80,125,929,FL,4,Broward County,Florida,FL,12,11,12011,Broward County Florida
+1928,Lake Okeechobee,151,LF1,AL041928,AL041928,30,45,60,9,17,0,14,-20,26.7,-80,125,929,FL,4,Martin County,Florida,FL,12,85,12085,Martin County Florida
+1928,Lake Okeechobee,151,LF1,AL041928,AL041928,30,45,60,9,17,0,14,-20,26.7,-80,125,929,FL,4,Miami-Dade County,Florida,FL,12,86,12086,Miami-Dade County Florida
+1928,Lake Okeechobee,151,LF1,AL041928,AL041928,30,45,60,9,17,0,14,-20,26.7,-80,125,929,FL,4,Palm Beach County,Florida,FL,12,99,12099,Palm Beach County Florida
+1928,Lake Okeechobee,151,LF1,AL041928,AL041928,30,45,60,9,17,0,14,-20,26.7,-80,125,929,FL,4,St. Lucie County,Florida,FL,12,111,12111,St Lucie County Florida
+1932,Freeport,156,LF1,AL021932,AL021932,10,15,20,8,14,400,22,-90.3,29,-95.2,130,935,TX,4,Brazoria County,Texas,TX,48,39,48039,Brazoria County Texas
+1932,Freeport,156,LF1,AL021932,AL021932,10,15,20,8,14,400,22,-90.3,29,-95.2,130,935,TX,4,Galveston County,Texas,TX,48,167,48167,Galveston County Texas
+1933,Chesapeake-Potomac,159,LF1,AL061933,AL061933,40,60,80,8,23,1000,12.5,-22.9,35.8,-75.6,80,963,NC,1,Beaufort County,North Carolina,NC,37,13,37013,Beaufort County North Carolina
+1933,Chesapeake-Potomac,159,LF1,AL061933,AL061933,40,60,80,8,23,1000,12.5,-22.9,35.8,-75.6,80,963,NC,1,Bertie County,North Carolina,NC,37,15,37015,Bertie County North Carolina
+1933,Chesapeake-Potomac,159,LF1,AL061933,AL061933,40,60,80,8,23,1000,12.5,-22.9,35.8,-75.6,80,963,NC,1,Camden County,North Carolina,NC,37,29,37029,Camden County North Carolina
+1933,Chesapeake-Potomac,159,LF1,AL061933,AL061933,40,60,80,8,23,1000,12.5,-22.9,35.8,-75.6,80,963,NC,1,Carteret County,North Carolina,NC,37,31,37031,Carteret County North Carolina
+1933,Chesapeake-Potomac,159,LF1,AL061933,AL061933,40,60,80,8,23,1000,12.5,-22.9,35.8,-75.6,80,963,NC,1,Chowan County,North Carolina,NC,37,41,37041,Chowan County North Carolina
+1933,Chesapeake-Potomac,159,LF1,AL061933,AL061933,40,60,80,8,23,1000,12.5,-22.9,35.8,-75.6,80,963,NC,1,Currituck County,North Carolina,NC,37,53,37053,Currituck County North Carolina
+1933,Chesapeake-Potomac,159,LF1,AL061933,AL061933,40,60,80,8,23,1000,12.5,-22.9,35.8,-75.6,80,963,NC,1,Dare County,North Carolina,NC,37,55,37055,Dare County North Carolina
+1933,Chesapeake-Potomac,159,LF1,AL061933,AL061933,40,60,80,8,23,1000,12.5,-22.9,35.8,-75.6,80,963,NC,1,Hyde County,North Carolina,NC,37,95,37095,Hyde County North Carolina
+1933,Chesapeake-Potomac,159,LF1,AL061933,AL061933,40,60,80,8,23,1000,12.5,-22.9,35.8,-75.6,80,963,NC,1,Pamlico County,North Carolina,NC,37,137,37137,Pamlico County North Carolina
+1933,Chesapeake-Potomac,159,LF1,AL061933,AL061933,40,60,80,8,23,1000,12.5,-22.9,35.8,-75.6,80,963,NC,1,Pasquotank County,North Carolina,NC,37,139,37139,Pasquotank County North Carolina
+1933,Chesapeake-Potomac,159,LF1,AL061933,AL061933,40,60,80,8,23,1000,12.5,-22.9,35.8,-75.6,80,963,NC,1,Perquimans County,North Carolina,NC,37,143,37143,Perquimans County North Carolina
+1933,Chesapeake-Potomac,159,LF1,AL061933,AL061933,40,60,80,8,23,1000,12.5,-22.9,35.8,-75.6,80,963,NC,1,Tyrrell County,North Carolina,NC,37,177,37177,Tyrrell County North Carolina
+1933,Chesapeake-Potomac,159,LF1,AL061933,AL061933,40,60,80,8,23,1000,12.5,-22.9,35.8,-75.6,80,963,NC,1,Washington County,North Carolina,NC,37,187,37187,Washington County North Carolina
+1933,Chesapeake-Potomac,159,LF1,AL061933,AL061933,40,60,80,8,23,1000,12.5,-22.9,35.8,-75.6,80,963,NC,1,Suffolk city,Virginia,VA,51,800,51800,Suffolk city Virginia
+1933,Chesapeake-Potomac,159,LF1,AL061933,AL061933,40,60,80,8,23,1000,12.5,-22.9,35.8,-75.6,80,963,NC,1,Virginia Beach city,Virginia,VA,51,810,51810,Virginia Beach city Virginia
+1935,Yankee,167,LF1,AL071935,AL071935,10,15,20,11,4,1800,32.3,-60.9,25.9,-80.1,85,973,FL,2,Broward County,Florida,FL,12,11,12011,Broward County Florida
+1935,Yankee,167,LF1,AL071935,AL071935,10,15,20,11,4,1800,32.3,-60.9,25.9,-80.1,85,973,FL,2,Miami-Dade County,Florida,FL,12,86,12086,Miami-Dade County Florida
+1938,Great New England,171,LF1,AL061938,AL061938,40,60,80,9,21,2000,13.4,-23,40.7,-72.9,105,941,NY,3,Fairfield County,Connecticut,CT,9,1,9001,Fairfield County Connecticut
+1938,Great New England,171,LF1,AL061938,AL061938,40,60,80,9,21,2000,13.4,-23,40.7,-72.9,105,941,NY,3,Middlesex County,Connecticut,CT,9,7,9007,Middlesex County Connecticut
+1938,Great New England,171,LF1,AL061938,AL061938,40,60,80,9,21,2000,13.4,-23,40.7,-72.9,105,941,NY,3,New Haven County,Connecticut,CT,9,9,9009,New Haven County Connecticut
+1938,Great New England,171,LF1,AL061938,AL061938,40,60,80,9,21,2000,13.4,-23,40.7,-72.9,105,941,NY,3,New London County,Connecticut,CT,9,11,9011,New London County Connecticut
+1938,Great New England,171,LF1,AL061938,AL061938,40,60,80,9,21,2000,13.4,-23,40.7,-72.9,105,941,NY,3,Essex County,New Jersey,NJ,34,13,34013,Essex County New Jersey
+1938,Great New England,171,LF1,AL061938,AL061938,40,60,80,9,21,2000,13.4,-23,40.7,-72.9,105,941,NY,3,Hudson County,New Jersey,NJ,34,17,34017,Hudson County New Jersey
+1938,Great New England,171,LF1,AL061938,AL061938,40,60,80,9,21,2000,13.4,-23,40.7,-72.9,105,941,NY,3,Middlesex County,New Jersey,NJ,34,23,34023,Middlesex County New Jersey
+1938,Great New England,171,LF1,AL061938,AL061938,40,60,80,9,21,2000,13.4,-23,40.7,-72.9,105,941,NY,3,Monmouth County,New Jersey,NJ,34,25,34025,Monmouth County New Jersey
+1938,Great New England,171,LF1,AL061938,AL061938,40,60,80,9,21,2000,13.4,-23,40.7,-72.9,105,941,NY,3,Union County,New Jersey,NJ,34,39,34039,Union County New Jersey
+1938,Great New England,171,LF1,AL061938,AL061938,40,60,80,9,21,2000,13.4,-23,40.7,-72.9,105,941,NY,3,Bronx County,New York,NY,36,5,36005,Bronx County New York
+1938,Great New England,171,LF1,AL061938,AL061938,40,60,80,9,21,2000,13.4,-23,40.7,-72.9,105,941,NY,3,Kings County,New York,NY,36,47,36047,Kings County New York
+1938,Great New England,171,LF1,AL061938,AL061938,40,60,80,9,21,2000,13.4,-23,40.7,-72.9,105,941,NY,3,Nassau County,New York,NY,36,59,36059,Nassau County New York
+1938,Great New England,171,LF1,AL061938,AL061938,40,60,80,9,21,2000,13.4,-23,40.7,-72.9,105,941,NY,3,New York County,New York,NY,36,61,36061,New York County New York
+1938,Great New England,171,LF1,AL061938,AL061938,40,60,80,9,21,2000,13.4,-23,40.7,-72.9,105,941,NY,3,Queens County,New York,NY,36,81,36081,Queens County New York
+1938,Great New England,171,LF1,AL061938,AL061938,40,60,80,9,21,2000,13.4,-23,40.7,-72.9,105,941,NY,3,Richmond County,New York,NY,36,85,36085,Richmond County New York
+1938,Great New England,171,LF1,AL061938,AL061938,40,60,80,9,21,2000,13.4,-23,40.7,-72.9,105,941,NY,3,Suffolk County,New York,NY,36,103,36103,Suffolk County New York
+1938,Great New England,171,LF1,AL061938,AL061938,40,60,80,9,21,2000,13.4,-23,40.7,-72.9,105,941,NY,3,Westchester County,New York,NY,36,119,36119,Westchester County New York
+1938,Great New England,171,LF1,AL061938,AL061938,40,60,80,9,21,2000,13.4,-23,40.7,-72.9,105,941,NY,3,Washington County,Rhode Island,RI,44,9,44009,Washington County Rhode Island
+1944,Cuba-Florida_1,184,LF1,AL131944_1,AL131944,30,45,60,10,18,2100,16.4,-80.6,24.6,-82.9,105,949,FL,3,Monroe County,Florida,FL,12,87,12087,Monroe County Florida
+1944,Cuba-Florida_2,0,LF1,AL131944_2,AL131944,35,52.5,70,10,19,700,16.4,-80.6,27.2,-82.5,90,962,FL,2,Charlotte County,Florida,FL,12,15,12015,Charlotte County Florida
+1944,Cuba-Florida_2,0,LF1,AL131944_2,AL131944,35,52.5,70,10,19,700,16.4,-80.6,27.2,-82.5,90,962,FL,2,Hillsborough County,Florida,FL,12,57,12057,Hillsborough County Florida
+1944,Cuba-Florida_2,0,LF1,AL131944_2,AL131944,35,52.5,70,10,19,700,16.4,-80.6,27.2,-82.5,90,962,FL,2,Lee County,Florida,FL,12,71,12071,Lee County Florida
+1944,Cuba-Florida_2,0,LF1,AL131944_2,AL131944,35,52.5,70,10,19,700,16.4,-80.6,27.2,-82.5,90,962,FL,2,Manatee County,Florida,FL,12,81,12081,Manatee County Florida
+1944,Cuba-Florida_2,0,LF1,AL131944_2,AL131944,35,52.5,70,10,19,700,16.4,-80.6,27.2,-82.5,90,962,FL,2,Pasco County,Florida,FL,12,101,12101,Pasco County Florida
+1944,Cuba-Florida_2,0,LF1,AL131944_2,AL131944,35,52.5,70,10,19,700,16.4,-80.6,27.2,-82.5,90,962,FL,2,Pinellas County,Florida,FL,12,103,12103,Pinellas County Florida
+1944,Cuba-Florida_2,0,LF1,AL131944_2,AL131944,35,52.5,70,10,19,700,16.4,-80.6,27.2,-82.5,90,962,FL,2,Sarasota County,Florida,FL,12,115,12115,Sarasota County Florida
+1944,Great Atlantic_1,183,LF1,AL071944_1,AL071944,30,45,60,9,15,200,20.8,-58.5,40.9,-72.2,90,954,NY,2,Fairfield County,Connecticut,CT,9,1,9001,Fairfield County Connecticut
+1944,Great Atlantic_1,183,LF1,AL071944_1,AL071944,30,45,60,9,15,200,20.8,-58.5,40.9,-72.2,90,954,NY,2,Middlesex County,Connecticut,CT,9,7,9007,Middlesex County Connecticut
+1944,Great Atlantic_1,183,LF1,AL071944_1,AL071944,30,45,60,9,15,200,20.8,-58.5,40.9,-72.2,90,954,NY,2,New Haven County,Connecticut,CT,9,9,9009,New Haven County Connecticut
+1944,Great Atlantic_1,183,LF1,AL071944_1,AL071944,30,45,60,9,15,200,20.8,-58.5,40.9,-72.2,90,954,NY,2,New London County,Connecticut,CT,9,11,9011,New London County Connecticut
+1944,Great Atlantic_1,183,LF1,AL071944_1,AL071944,30,45,60,9,15,200,20.8,-58.5,40.9,-72.2,90,954,NY,2,Suffolk County,New York,NY,36,103,36103,Suffolk County New York
+1944,Great Atlantic_2,0,LF1,AL071944_2,AL071944,30,45,60,9,15,400,20.8,-58.5,41.4,-71.6,85,957,RI,2,Barnstable County,Massachusetts,MA,25,1,25001,Barnstable County Massachusetts
+1944,Great Atlantic_2,0,LF1,AL071944_2,AL071944,30,45,60,9,15,400,20.8,-58.5,41.4,-71.6,85,957,RI,2,Bristol County,Massachusetts,MA,25,5,25005,Bristol County Massachusetts
+1944,Great Atlantic_2,0,LF1,AL071944_2,AL071944,30,45,60,9,15,400,20.8,-58.5,41.4,-71.6,85,957,RI,2,Dukes County,Massachusetts,MA,25,7,25007,Dukes County Massachusetts
+1944,Great Atlantic_2,0,LF1,AL071944_2,AL071944,30,45,60,9,15,400,20.8,-58.5,41.4,-71.6,85,957,RI,2,Norfolk County,Massachusetts,MA,25,21,25021,Norfolk County Massachusetts
+1944,Great Atlantic_2,0,LF1,AL071944_2,AL071944,30,45,60,9,15,400,20.8,-58.5,41.4,-71.6,85,957,RI,2,Plymouth County,Massachusetts,MA,25,23,25023,Plymouth County Massachusetts
+1944,Great Atlantic_2,0,LF1,AL071944_2,AL071944,30,45,60,9,15,400,20.8,-58.5,41.4,-71.6,85,957,RI,2,Bristol County,Rhode Island,RI,44,1,44001,Bristol County Rhode Island
+1944,Great Atlantic_2,0,LF1,AL071944_2,AL071944,30,45,60,9,15,400,20.8,-58.5,41.4,-71.6,85,957,RI,2,Kent County,Rhode Island,RI,44,3,44003,Kent County Rhode Island
+1944,Great Atlantic_2,0,LF1,AL071944_2,AL071944,30,45,60,9,15,400,20.8,-58.5,41.4,-71.6,85,957,RI,2,Newport County,Rhode Island,RI,44,5,44005,Newport County Rhode Island
+1944,Great Atlantic_2,0,LF1,AL071944_2,AL071944,30,45,60,9,15,400,20.8,-58.5,41.4,-71.6,85,957,RI,2,Providence County,Rhode Island,RI,44,7,44007,Providence County Rhode Island
+1944,Great Atlantic_2,0,LF1,AL071944_2,AL071944,30,45,60,9,15,400,20.8,-58.5,41.4,-71.6,85,957,RI,2,Washington County,Rhode Island,RI,44,9,44009,Washington County Rhode Island
+1945,Homestead,188,LF1,AL091945,AL091945,10,15,20,9,15,1930,19,-58.5,25.3,-80.3,115,949,FL,4,Miami-Dade County,Florida,FL,12,86,12086,Miami-Dade County Florida
+1945,Homestead,188,LF1,AL091945,AL091945,10,15,20,9,15,1930,19,-58.5,25.3,-80.3,115,949,FL,4,Monroe County,Florida,FL,12,87,12087,Monroe County Florida
+1947,Fort Lauderdale_1,191,LF1,AL041947_1,AL041947,15,22.5,30,9,16,1630,14.1,-24,26.1,-80.1,115,943,FL,4,Broward County,Florida,FL,12,11,12011,Broward County Florida
+1947,Fort Lauderdale_1,191,LF1,AL041947_1,AL041947,15,22.5,30,9,16,1630,14.1,-24,26.1,-80.1,115,943,FL,4,Miami-Dade County,Florida,FL,12,86,12086,Miami-Dade County Florida
+1947,Fort Lauderdale_1,191,LF1,AL041947_1,AL041947,15,22.5,30,9,16,1630,14.1,-24,26.1,-80.1,115,943,FL,4,Palm Beach County,Florida,FL,12,99,12099,Palm Beach County Florida
+1947,Fort Lauderdale_2,192,LF2,AL041947_2,AL041947,25,37.5,50,9,19,1400,14.1,-24,29.6,-89.5,95,966,LA,2,Jefferson Parish,Louisiana,LA,22,51,22051,Jefferson Parish Louisiana
+1947,Fort Lauderdale_2,192,LF2,AL041947_2,AL041947,25,37.5,50,9,19,1400,14.1,-24,29.6,-89.5,95,966,LA,2,Lafourche Parish,Louisiana,LA,22,57,22057,Lafourche Parish Louisiana
+1947,Fort Lauderdale_2,192,LF2,AL041947_2,AL041947,25,37.5,50,9,19,1400,14.1,-24,29.6,-89.5,95,966,LA,2,Orleans Parish,Louisiana,LA,22,71,22071,Orleans Parish Louisiana
+1947,Fort Lauderdale_2,192,LF2,AL041947_2,AL041947,25,37.5,50,9,19,1400,14.1,-24,29.6,-89.5,95,966,LA,2,Plaquemines Parish,Louisiana,LA,22,75,22075,Plaquemines Parish Louisiana
+1947,Fort Lauderdale_2,192,LF2,AL041947_2,AL041947,25,37.5,50,9,19,1400,14.1,-24,29.6,-89.5,95,966,LA,2,St. Bernard Parish,Louisiana,LA,22,87,22087,St Bernard Parish Louisiana
+1947,Fort Lauderdale_2,192,LF2,AL041947_2,AL041947,25,37.5,50,9,19,1400,14.1,-24,29.6,-89.5,95,966,LA,2,St. Tammany Parish,Louisiana,LA,22,103,22103,St Tammany Parish Louisiana
+1947,Fort Lauderdale_2,192,LF2,AL041947_2,AL041947,25,37.5,50,9,19,1400,14.1,-24,29.6,-89.5,95,966,LA,2,Hancock County,Mississippi,MS,28,45,28045,Hancock County Mississippi
+1947,Fort Lauderdale_2,192,LF2,AL041947_2,AL041947,25,37.5,50,9,19,1400,14.1,-24,29.6,-89.5,95,966,LA,2,Harrison County,Mississippi,MS,28,47,28047,Harrison County Mississippi
+1949,Florida,198,LF1,AL021949,AL021949,20,30,40,8,26,2300,18,-60,26.6,-80,115,954,FL,4,Broward County,Florida,FL,12,11,12011,Broward County Florida
+1949,Florida,198,LF1,AL021949,AL021949,20,30,40,8,26,2300,18,-60,26.6,-80,115,954,FL,4,Martin County,Florida,FL,12,85,12085,Martin County Florida
+1949,Florida,198,LF1,AL021949,AL021949,20,30,40,8,26,2300,18,-60,26.6,-80,115,954,FL,4,Palm Beach County,Florida,FL,12,99,12099,Palm Beach County Florida
+1954,Carol_1,207,LF1,AL061954_1,AL061954,20,30,40,8,31,1400,26.1,-76,40.9,-72.2,100,955,NY,3,Suffolk County,New York,NY,36,103,36103,Suffolk County New York
+1954,Carol_2,0,LF1,AL061954_2,AL061954,20,30,40,8,31,1500,26.1,-76,41.3,-72,100,957,CT,3,Middlesex County,Connecticut,CT,9,7,9007,Middlesex County Connecticut
+1954,Carol_2,0,LF1,AL061954_2,AL061954,20,30,40,8,31,1500,26.1,-76,41.3,-72,100,957,CT,3,New Haven County,Connecticut,CT,9,9,9009,New Haven County Connecticut
+1954,Carol_2,0,LF1,AL061954_2,AL061954,20,30,40,8,31,1500,26.1,-76,41.3,-72,100,957,CT,3,New London County,Connecticut,CT,9,11,9011,New London County Connecticut
+1954,Carol_2,0,LF1,AL061954_2,AL061954,20,30,40,8,31,1500,26.1,-76,41.3,-72,100,957,CT,3,Kent County,Rhode Island,RI,44,3,44003,Kent County Rhode Island
+1954,Carol_2,0,LF1,AL061954_2,AL061954,20,30,40,8,31,1500,26.1,-76,41.3,-72,100,957,CT,3,Newport County,Rhode Island,RI,44,5,44005,Newport County Rhode Island
+1954,Carol_2,0,LF1,AL061954_2,AL061954,20,30,40,8,31,1500,26.1,-76,41.3,-72,100,957,CT,3,Providence County,Rhode Island,RI,44,7,44007,Providence County Rhode Island
+1954,Carol_2,0,LF1,AL061954_2,AL061954,20,30,40,8,31,1500,26.1,-76,41.3,-72,100,957,CT,3,Washington County,Rhode Island,RI,44,9,44009,Washington County Rhode Island
+1954,Hazel,209,LF1,AL141954,AL141954,20,30,40,10,15,1530,12,-58.5,33.9,-78.6,115,938,SC,4,Brunswick County,North Carolina,NC,37,19,37019,Brunswick County North Carolina
+1954,Hazel,209,LF1,AL141954,AL141954,20,30,40,10,15,1530,12,-58.5,33.9,-78.6,115,938,SC,4,New Hanover County,North Carolina,NC,37,129,37129,New Hanover County North Carolina
+1954,Hazel,209,LF1,AL141954,AL141954,20,30,40,10,15,1530,12,-58.5,33.9,-78.6,115,938,SC,4,Georgetown County,South Carolina,SC,45,43,45043,Georgetown County South Carolina
+1954,Hazel,209,LF1,AL141954,AL141954,20,30,40,10,15,1530,12,-58.5,33.9,-78.6,115,938,SC,4,Horry County,South Carolina,SC,45,51,45051,Horry County South Carolina
+1960,Donna_1,218,LF1,AL051960_1,AL051960,20,30,40,9,10,700,11.1,-33.1,24.8,-80.9,125,930,FL,4,Collier County,Florida,FL,12,21,12021,Collier County Florida
+1960,Donna_1,218,LF1,AL051960_1,AL051960,20,30,40,9,10,700,11.1,-33.1,24.8,-80.9,125,930,FL,4,Miami-Dade County,Florida,FL,12,86,12086,Miami-Dade County Florida
+1960,Donna_1,218,LF1,AL051960_1,AL051960,20,30,40,9,10,700,11.1,-33.1,24.8,-80.9,125,930,FL,4,Monroe County,Florida,FL,12,87,12087,Monroe County Florida
+1960,Donna_2,0,LF1,AL051960_2,AL051960,20,30,40,9,10,1600,11.1,-33.1,25.9,-81.6,105,942,FL,3,Lee County,Florida,FL,12,71,12071,Lee County Florida
+1960,Donna_3,219,LF2,AL051960_3,AL051960,50,75,100,9,12,400,11.1,-33.1,34.6,-77.3,90,958,NC,2,Beaufort County,North Carolina,NC,37,13,37013,Beaufort County North Carolina
+1960,Donna_3,219,LF2,AL051960_3,AL051960,50,75,100,9,12,400,11.1,-33.1,34.6,-77.3,90,958,NC,2,Bertie County,North Carolina,NC,37,15,37015,Bertie County North Carolina
+1960,Donna_3,219,LF2,AL051960_3,AL051960,50,75,100,9,12,400,11.1,-33.1,34.6,-77.3,90,958,NC,2,Brunswick County,North Carolina,NC,37,19,37019,Brunswick County North Carolina
+1960,Donna_3,219,LF2,AL051960_3,AL051960,50,75,100,9,12,400,11.1,-33.1,34.6,-77.3,90,958,NC,2,Carteret County,North Carolina,NC,37,31,37031,Carteret County North Carolina
+1960,Donna_3,219,LF2,AL051960_3,AL051960,50,75,100,9,12,400,11.1,-33.1,34.6,-77.3,90,958,NC,2,Craven County,North Carolina,NC,37,49,37049,Craven County North Carolina
+1960,Donna_3,219,LF2,AL051960_3,AL051960,50,75,100,9,12,400,11.1,-33.1,34.6,-77.3,90,958,NC,2,Hyde County,North Carolina,NC,37,95,37095,Hyde County North Carolina
+1960,Donna_3,219,LF2,AL051960_3,AL051960,50,75,100,9,12,400,11.1,-33.1,34.6,-77.3,90,958,NC,2,New Hanover County,North Carolina,NC,37,129,37129,New Hanover County North Carolina
+1960,Donna_3,219,LF2,AL051960_3,AL051960,50,75,100,9,12,400,11.1,-33.1,34.6,-77.3,90,958,NC,2,Onslow County,North Carolina,NC,37,133,37133,Onslow County North Carolina
+1960,Donna_3,219,LF2,AL051960_3,AL051960,50,75,100,9,12,400,11.1,-33.1,34.6,-77.3,90,958,NC,2,Pamlico County,North Carolina,NC,37,137,37137,Pamlico County North Carolina
+1960,Donna_3,219,LF2,AL051960_3,AL051960,50,75,100,9,12,400,11.1,-33.1,34.6,-77.3,90,958,NC,2,Pender County,North Carolina,NC,37,141,37141,Pender County North Carolina
+1960,Donna_3,219,LF2,AL051960_3,AL051960,50,75,100,9,12,400,11.1,-33.1,34.6,-77.3,90,958,NC,2,Tyrrell County,North Carolina,NC,37,177,37177,Tyrrell County North Carolina
+1960,Donna_3,219,LF2,AL051960_3,AL051960,50,75,100,9,12,400,11.1,-33.1,34.6,-77.3,90,958,NC,2,Washington County,North Carolina,NC,37,187,37187,Washington County North Carolina
+1960,Donna_3,219,LF2,AL051960_3,AL051960,50,75,100,9,12,400,11.1,-33.1,34.6,-77.3,90,958,NC,2,Horry County,South Carolina,SC,45,51,45051,Horry County South Carolina
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,Fairfield County,Connecticut,CT,9,1,9001,Fairfield County Connecticut
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,Middlesex County,Connecticut,CT,9,7,9007,Middlesex County Connecticut
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,New Haven County,Connecticut,CT,9,9,9009,New Haven County Connecticut
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,New London County,Connecticut,CT,9,11,9011,New London County Connecticut
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,Essex County,New Jersey,NJ,34,13,34013,Essex County New Jersey
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,Hudson County,New Jersey,NJ,34,17,34017,Hudson County New Jersey
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,Middlesex County,New Jersey,NJ,34,23,34023,Middlesex County New Jersey
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,Monmouth County,New Jersey,NJ,34,25,34025,Monmouth County New Jersey
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,Ocean County,New Jersey,NJ,34,29,34029,Ocean County New Jersey
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,Union County,New Jersey,NJ,34,39,34039,Union County New Jersey
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,Bronx County,New York,NY,36,5,36005,Bronx County New York
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,Kings County,New York,NY,36,47,36047,Kings County New York
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,Nassau County,New York,NY,36,59,36059,Nassau County New York
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,New York County,New York,NY,36,61,36061,New York County New York
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,Queens County,New York,NY,36,81,36081,Queens County New York
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,Richmond County,New York,NY,36,85,36085,Richmond County New York
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,Suffolk County,New York,NY,36,103,36103,Suffolk County New York
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,Westchester County,New York,NY,36,119,36119,Westchester County New York
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,Kent County,Rhode Island,RI,44,3,44003,Kent County Rhode Island
+1960,Donna_4,220,LF3,AL051960_4,AL051960,50,75,100,9,12,1900,11.1,-33.1,40.7,-72.9,85,959,NY,2,Washington County,Rhode Island,RI,44,9,44009,Washington County Rhode Island
+1961,Carla,222,LF1,AL031961,AL031961,20,30,40,9,11,2000,14.9,-80.5,28.3,-96.4,125,931,TX,4,Aransas County,Texas,TX,48,7,48007,Aransas County Texas
+1961,Carla,222,LF1,AL031961,AL031961,20,30,40,9,11,2000,14.9,-80.5,28.3,-96.4,125,931,TX,4,Calhoun County,Texas,TX,48,57,48057,Calhoun County Texas
+1961,Carla,222,LF1,AL031961,AL031961,20,30,40,9,11,2000,14.9,-80.5,28.3,-96.4,125,931,TX,4,Jackson County,Texas,TX,48,239,48239,Jackson County Texas
+1961,Carla,222,LF1,AL031961,AL031961,20,30,40,9,11,2000,14.9,-80.5,28.3,-96.4,125,931,TX,4,Matagorda County,Texas,TX,48,321,48321,Matagorda County Texas
+1961,Carla,222,LF1,AL031961,AL031961,20,30,40,9,11,2000,14.9,-80.5,28.3,-96.4,125,931,TX,4,Refugio County,Texas,TX,48,391,48391,Refugio County Texas
+1961,Carla,222,LF1,AL031961,AL031961,20,30,40,9,11,2000,14.9,-80.5,28.3,-96.4,125,931,TX,4,Victoria County,Texas,TX,48,469,48469,Victoria County Texas
+1964,Cleo,224,LF1,AL051964,AL051964,10,15,20,8,27,800,13.1,-44.3,25.8,-80.1,95,968,FL,2,Broward County,Florida,FL,12,11,12011,Broward County Florida
+1964,Cleo,224,LF1,AL051964,AL051964,10,15,20,8,27,800,13.1,-44.3,25.8,-80.1,95,968,FL,2,Miami-Dade County,Florida,FL,12,86,12086,Miami-Dade County Florida
+1964,Dora,225,LF1,AL061964,AL061964,5,7.5,10,9,10,600,11,-41.9,29.9,-81.3,95,966,FL,2,St. Johns County,Florida,FL,12,109,12109,St Johns County Florida
+1965,Betsy_1,228,LF1,AL031965_1,AL031965,30,45,60,9,8,1100,17.6,-62.7,25,-80.5,100,952,FL,3,Collier County,Florida,FL,12,21,12021,Collier County Florida
+1965,Betsy_1,228,LF1,AL031965_1,AL031965,30,45,60,9,8,1100,17.6,-62.7,25,-80.5,100,952,FL,3,Miami-Dade County,Florida,FL,12,86,12086,Miami-Dade County Florida
+1965,Betsy_1,228,LF1,AL031965_1,AL031965,30,45,60,9,8,1100,17.6,-62.7,25,-80.5,100,952,FL,3,Monroe County,Florida,FL,12,87,12087,Monroe County Florida
+1965,Betsy_2,229,LF2,AL031965_2,AL031965,30,45,60,9,10,400,17.6,-62.7,29.2,-90.1,115,946,LA,4,Jefferson Parish,Louisiana,LA,22,51,22051,Jefferson Parish Louisiana
+1965,Betsy_2,229,LF2,AL031965_2,AL031965,30,45,60,9,10,400,17.6,-62.7,29.2,-90.1,115,946,LA,4,Lafourche Parish,Louisiana,LA,22,57,22057,Lafourche Parish Louisiana
+1965,Betsy_2,229,LF2,AL031965_2,AL031965,30,45,60,9,10,400,17.6,-62.7,29.2,-90.1,115,946,LA,4,Orleans Parish,Louisiana,LA,22,71,22071,Orleans Parish Louisiana
+1965,Betsy_2,229,LF2,AL031965_2,AL031965,30,45,60,9,10,400,17.6,-62.7,29.2,-90.1,115,946,LA,4,Plaquemines Parish,Louisiana,LA,22,75,22075,Plaquemines Parish Louisiana
+1965,Betsy_2,229,LF2,AL031965_2,AL031965,30,45,60,9,10,400,17.6,-62.7,29.2,-90.1,115,946,LA,4,St. Bernard Parish,Louisiana,LA,22,87,22087,St Bernard Parish Louisiana
+1965,Betsy_2,229,LF2,AL031965_2,AL031965,30,45,60,9,10,400,17.6,-62.7,29.2,-90.1,115,946,LA,4,Terrebonne Parish,Louisiana,LA,22,109,22109,Terrebonne Parish Louisiana
+1969,Camille,234,LF1,AL091969,AL091969,5,7.5,10,8,18,400,18.5,-80.5,30.3,-89.4,150,900,MS,5,Hancock County,Mississippi,MS,28,45,28045,Hancock County Mississippi
+1969,Camille,234,LF1,AL091969,AL091969,5,7.5,10,8,18,400,18.5,-80.5,30.3,-89.4,150,900,MS,5,Harrison County,Mississippi,MS,28,47,28047,Harrison County Mississippi
+1970,Celia,236,LF1,AL041970,AL041970,10,15,20,8,3,2100,21.9,-84.3,27.8,-97.1,120,944,TX,4,Aransas County,Texas,TX,48,7,48007,Aransas County Texas
+1970,Celia,236,LF1,AL041970,AL041970,10,15,20,8,3,2100,21.9,-84.3,27.8,-97.1,120,944,TX,4,Kleberg County,Texas,TX,48,273,48273,Kleberg County Texas
+1970,Celia,236,LF1,AL041970,AL041970,10,15,20,8,3,2100,21.9,-84.3,27.8,-97.1,120,944,TX,4,Nueces County,Texas,TX,48,355,48355,Nueces County Texas
+1970,Celia,236,LF1,AL041970,AL041970,10,15,20,8,3,2100,21.9,-84.3,27.8,-97.1,120,944,TX,4,Refugio County,Texas,TX,48,391,48391,Refugio County Texas
+1970,Celia,236,LF1,AL041970,AL041970,10,15,20,8,3,2100,21.9,-84.3,27.8,-97.1,120,944,TX,4,San Patricio County,Texas,TX,48,409,48409,San Patricio County Texas
+1972,Agnes_1,240,LF1,AL021972_1,AL021972,50,75,100,6,19,1800,20,-86.2,29.9,-85.4,65,980,FL,1,Bay County,Florida,FL,12,5,12005,Bay County Florida
+1972,Agnes_1,240,LF1,AL021972_1,AL021972,50,75,100,6,19,1800,20,-86.2,29.9,-85.4,65,980,FL,1,Escambia County,Florida,FL,12,33,12033,Escambia County Florida
+1972,Agnes_1,240,LF1,AL021972_1,AL021972,50,75,100,6,19,1800,20,-86.2,29.9,-85.4,65,980,FL,1,Franklin County,Florida,FL,12,37,12037,Franklin County Florida
+1972,Agnes_1,240,LF1,AL021972_1,AL021972,50,75,100,6,19,1800,20,-86.2,29.9,-85.4,65,980,FL,1,Gulf County,Florida,FL,12,45,12045,Gulf County Florida
+1972,Agnes_1,240,LF1,AL021972_1,AL021972,50,75,100,6,19,1800,20,-86.2,29.9,-85.4,65,980,FL,1,Jefferson County,Florida,FL,12,65,12065,Jefferson County Florida
+1972,Agnes_1,240,LF1,AL021972_1,AL021972,50,75,100,6,19,1800,20,-86.2,29.9,-85.4,65,980,FL,1,Okaloosa County,Florida,FL,12,91,12091,Okaloosa County Florida
+1972,Agnes_1,240,LF1,AL021972_1,AL021972,50,75,100,6,19,1800,20,-86.2,29.9,-85.4,65,980,FL,1,Santa Rosa County,Florida,FL,12,113,12113,Santa Rosa County Florida
+1972,Agnes_1,240,LF1,AL021972_1,AL021972,50,75,100,6,19,1800,20,-86.2,29.9,-85.4,65,980,FL,1,Taylor County,Florida,FL,12,123,12123,Taylor County Florida
+1972,Agnes_1,240,LF1,AL021972_1,AL021972,50,75,100,6,19,1800,20,-86.2,29.9,-85.4,65,980,FL,1,Wakulla County,Florida,FL,12,129,12129,Wakulla County Florida
+1972,Agnes_1,240,LF1,AL021972_1,AL021972,50,75,100,6,19,1800,20,-86.2,29.9,-85.4,65,980,FL,1,Walton County,Florida,FL,12,131,12131,Walton County Florida
+1972,Agnes_2,0,LF2,AL021972_2,AL021972,50,75,100,6,22,2100,20,-86.2,40.6,-73.7,55,980,NY,1,Atlantic County,New Jersey,NJ,34,1,34001,Atlantic County New Jersey
+1972,Agnes_2,0,LF2,AL021972_2,AL021972,50,75,100,6,22,2100,20,-86.2,40.6,-73.7,55,980,NY,1,Essex County,New Jersey,NJ,34,13,34013,Essex County New Jersey
+1972,Agnes_2,0,LF2,AL021972_2,AL021972,50,75,100,6,22,2100,20,-86.2,40.6,-73.7,55,980,NY,1,Hudson County,New Jersey,NJ,34,17,34017,Hudson County New Jersey
+1972,Agnes_2,0,LF2,AL021972_2,AL021972,50,75,100,6,22,2100,20,-86.2,40.6,-73.7,55,980,NY,1,Middlesex County,New Jersey,NJ,34,23,34023,Middlesex County New Jersey
+1972,Agnes_2,0,LF2,AL021972_2,AL021972,50,75,100,6,22,2100,20,-86.2,40.6,-73.7,55,980,NY,1,Monmouth County,New Jersey,NJ,34,25,34025,Monmouth County New Jersey
+1972,Agnes_2,0,LF2,AL021972_2,AL021972,50,75,100,6,22,2100,20,-86.2,40.6,-73.7,55,980,NY,1,Ocean County,New Jersey,NJ,34,29,34029,Ocean County New Jersey
+1972,Agnes_3,0,LF2,AL021972_2,AL021972,50,75,100,6,22,2100,20,-86.2,40.6,-73.7,55,980,NY,1,Union County,New Jersey,NJ,34,39,34039,Union County New Jersey
+1972,Agnes_3,0,LF3,AL021972_2,AL021972,50,75,100,6,22,2100,20,-86.2,40.6,-73.7,55,980,NY,1,Bronx County,New York,NY,36,5,36005,Bronx County New York
+1972,Agnes_3,0,LF3,AL021972_2,AL021972,50,75,100,6,22,2100,20,-86.2,40.6,-73.7,55,980,NY,1,Kings County,New York,NY,36,47,36047,Kings County New York
+1972,Agnes_3,0,LF3,AL021972_2,AL021972,50,75,100,6,22,2100,20,-86.2,40.6,-73.7,55,980,NY,1,Nassau County,New York,NY,36,59,36059,Nassau County New York
+1972,Agnes_3,0,LF3,AL021972_2,AL021972,50,75,100,6,22,2100,20,-86.2,40.6,-73.7,55,980,NY,1,New York County,New York,NY,36,61,36061,New York County New York
+1972,Agnes_3,0,LF3,AL021972_2,AL021972,50,75,100,6,22,2100,20,-86.2,40.6,-73.7,55,980,NY,1,Queens County,New York,NY,36,81,36081,Queens County New York
+1972,Agnes_3,0,LF3,AL021972_2,AL021972,50,75,100,6,22,2100,20,-86.2,40.6,-73.7,55,980,NY,1,Richmond County,New York,NY,36,85,36085,Richmond County New York
+1972,Agnes_3,0,LF3,AL021972_2,AL021972,50,75,100,6,22,2100,20,-86.2,40.6,-73.7,55,980,NY,1,Suffolk County,New York,NY,36,103,36103,Suffolk County New York
+1972,Agnes_3,0,LF3,AL021972_2,AL021972,50,75,100,6,22,2100,20,-86.2,40.6,-73.7,55,980,NY,1,Westchester County,New York,NY,36,119,36119,Westchester County New York
+1975,Eloise,242,LF1,AL131975,AL131975,20,30,40,9,23,1200,19,-65.6,30.4,-86.3,110,955,FL,3,Bay County,Florida,FL,12,5,12005,Bay County Florida
+1975,Eloise,242,LF1,AL131975,AL131975,20,30,40,9,23,1200,19,-65.6,30.4,-86.3,110,955,FL,3,Escambia County,Florida,FL,12,33,12033,Escambia County Florida
+1975,Eloise,242,LF1,AL131975,AL131975,20,30,40,9,23,1200,19,-65.6,30.4,-86.3,110,955,FL,3,Okaloosa County,Florida,FL,12,91,12091,Okaloosa County Florida
+1975,Eloise,242,LF1,AL131975,AL131975,20,30,40,9,23,1200,19,-65.6,30.4,-86.3,110,955,FL,3,Santa Rosa County,Florida,FL,12,113,12113,Santa Rosa County Florida
+1975,Eloise,242,LF1,AL131975,AL131975,20,30,40,9,23,1200,19,-65.6,30.4,-86.3,110,955,FL,3,Walton County,Florida,FL,12,131,12131,Walton County Florida
+1979,Frederic,248,LF1,AL111979,AL111979,20,30,40,9,13,0,11.5,-36,30.2,-88.2,110,946,AL,3,Baldwin County,Alabama,AL,1,3,1003,Baldwin County Alabama
+1979,Frederic,248,LF1,AL111979,AL111979,20,30,40,9,13,0,11.5,-36,30.2,-88.2,110,946,AL,3,Mobile County,Alabama,AL,1,97,1097,Mobile County Alabama
+1979,Frederic,248,LF1,AL111979,AL111979,20,30,40,9,13,0,11.5,-36,30.2,-88.2,110,946,AL,3,Harrison County,Mississippi,MS,28,47,28047,Harrison County Mississippi
+1979,Frederic,248,LF1,AL111979,AL111979,20,30,40,9,13,0,11.5,-36,30.2,-88.2,110,946,AL,3,Jackson County,Mississippi,MS,28,59,28059,Jackson County Mississippi
+1983,Alicia,250,LF1,AL031983,AL031983,10,15,20,8,18,700,27.2,-91,29.1,-95.1,100,962,TX,3,Brazoria County,Texas,TX,48,39,48039,Brazoria County Texas
+1983,Alicia,250,LF1,AL031983,AL031983,10,15,20,8,18,700,27.2,-91,29.1,-95.1,100,962,TX,3,Galveston County,Texas,TX,48,167,48167,Galveston County Texas
+1989,Hugo,264,LF1,AL111989,AL111989,20,30,40,9,22,400,12.5,-29.2,32.8,-79.8,120,934,SC,4,Charleston County,South Carolina,SC,45,19,45019,Charleston County South Carolina
+1989,Hugo,264,LF1,AL111989,AL111989,20,30,40,9,22,400,12.5,-29.2,32.8,-79.8,120,934,SC,4,Colleton County,South Carolina,SC,45,29,45029,Colleton County South Carolina
+1989,Hugo,264,LF1,AL111989,AL111989,20,30,40,9,22,400,12.5,-29.2,32.8,-79.8,120,934,SC,4,Georgetown County,South Carolina,SC,45,43,45043,Georgetown County South Carolina
+1992,Andrew_1,267,LF1,AL041992_1,AL041992,10,15,20,8,24,905,12.3,-42,25.5,-80.3,145,922,FL,5,Miami-Dade County,Florida,FL,12,86,12086,Miami-Dade County Florida
+1992,Andrew_1,267,LF1,AL041992_1,AL041992,10,15,20,8,24,905,12.3,-42,25.5,-80.3,145,922,FL,5,Monroe County,Florida,FL,12,87,12087,Monroe County Florida
+1992,Andrew_2,268,LF2,AL041992_2,AL041992,20,30,40,8,26,830,12.3,-42,29.6,-91.5,100,956,LA,3,Iberia Parish,Louisiana,LA,22,45,22045,Iberia Parish Louisiana
+1992,Andrew_2,268,LF2,AL041992_2,AL041992,20,30,40,8,26,830,12.3,-42,29.6,-91.5,100,956,LA,3,Lafourche Parish,Louisiana,LA,22,57,22057,Lafourche Parish Louisiana
+1992,Andrew_2,268,LF2,AL041992_2,AL041992,20,30,40,8,26,830,12.3,-42,29.6,-91.5,100,956,LA,3,St. Mary Parish,Louisiana,LA,22,101,22101,St Mary Parish Louisiana
+1992,Andrew_2,268,LF2,AL041992_2,AL041992,20,30,40,8,26,830,12.3,-42,29.6,-91.5,100,956,LA,3,Terrebonne Parish,Louisiana,LA,22,109,22109,Terrebonne Parish Louisiana
+1992,Andrew_2,268,LF2,AL041992_2,AL041992,20,30,40,8,26,830,12.3,-42,29.6,-91.5,100,956,LA,3,Vermilion Parish,Louisiana,LA,22,113,22113,Vermilion Parish Louisiana
+1995,Opal,271,LF1,AL171995,AL171995,50,75,100,10,4,2200,21.1,-88.5,30.3,-87.1,100,942,FL,3,Baldwin County,Alabama,AL,1,3,1003,Baldwin County Alabama
+1995,Opal,271,LF1,AL171995,AL171995,50,75,100,10,4,2200,21.1,-88.5,30.3,-87.1,100,942,FL,3,Mobile County,Alabama,AL,1,97,1097,Mobile County Alabama
+1995,Opal,271,LF1,AL171995,AL171995,50,75,100,10,4,2200,21.1,-88.5,30.3,-87.1,100,942,FL,3,Bay County,Florida,FL,12,5,12005,Bay County Florida
+1995,Opal,271,LF1,AL171995,AL171995,50,75,100,10,4,2200,21.1,-88.5,30.3,-87.1,100,942,FL,3,Escambia County,Florida,FL,12,33,12033,Escambia County Florida
+1995,Opal,271,LF1,AL171995,AL171995,50,75,100,10,4,2200,21.1,-88.5,30.3,-87.1,100,942,FL,3,Okaloosa County,Florida,FL,12,91,12091,Okaloosa County Florida
+1995,Opal,271,LF1,AL171995,AL171995,50,75,100,10,4,2200,21.1,-88.5,30.3,-87.1,100,942,FL,3,Santa Rosa County,Florida,FL,12,113,12113,Santa Rosa County Florida
+1995,Opal,271,LF1,AL171995,AL171995,50,75,100,10,4,2200,21.1,-88.5,30.3,-87.1,100,942,FL,3,Walton County,Florida,FL,12,131,12131,Walton County Florida
+1995,Opal,271,LF1,AL171995,AL171995,50,75,100,10,4,2200,21.1,-88.5,30.3,-87.1,100,942,FL,3,Jackson County,Mississippi,MS,28,59,28059,Jackson County Mississippi
+1996,Fran,273,LF1,AL061996,AL061996,40,60,80,9,6,30,14.6,-44.9,33.9,-78,100,954,NC,3,Brunswick County,North Carolina,NC,37,19,37019,Brunswick County North Carolina
+1996,Fran,273,LF1,AL061996,AL061996,40,60,80,9,6,30,14.6,-44.9,33.9,-78,100,954,NC,3,Carteret County,North Carolina,NC,37,31,37031,Carteret County North Carolina
+1996,Fran,273,LF1,AL061996,AL061996,40,60,80,9,6,30,14.6,-44.9,33.9,-78,100,954,NC,3,New Hanover County,North Carolina,NC,37,129,37129,New Hanover County North Carolina
+1996,Fran,273,LF1,AL061996,AL061996,40,60,80,9,6,30,14.6,-44.9,33.9,-78,100,954,NC,3,Onslow County,North Carolina,NC,37,133,37133,Onslow County North Carolina
+1996,Fran,273,LF1,AL061996,AL061996,40,60,80,9,6,30,14.6,-44.9,33.9,-78,100,954,NC,3,Pender County,North Carolina,NC,37,141,37141,Pender County North Carolina
+1996,Fran,273,LF1,AL061996,AL061996,40,60,80,9,6,30,14.6,-44.9,33.9,-78,100,954,NC,3,Georgetown County,South Carolina,SC,45,43,45043,Georgetown County South Carolina
+1996,Fran,273,LF1,AL061996,AL061996,40,60,80,9,6,30,14.6,-44.9,33.9,-78,100,954,NC,3,Horry County,South Carolina,SC,45,51,45051,Horry County South Carolina
+1999,Floyd,280,LF1,AL081999,AL081999,35,52.5,70,9,16,630,15.3,-48.2,33.8,-78,90,956,NC,2,Brunswick County,North Carolina,NC,37,19,37019,Brunswick County North Carolina
+1999,Floyd,280,LF1,AL081999,AL081999,35,52.5,70,9,16,630,15.3,-48.2,33.8,-78,90,956,NC,2,New Hanover County,North Carolina,NC,37,129,37129,New Hanover County North Carolina
+1999,Floyd,280,LF1,AL081999,AL081999,35,52.5,70,9,16,630,15.3,-48.2,33.8,-78,90,956,NC,2,Onslow County,North Carolina,NC,37,133,37133,Onslow County North Carolina
+1999,Floyd,280,LF1,AL081999,AL081999,35,52.5,70,9,16,630,15.3,-48.2,33.8,-78,90,956,NC,2,Pender County,North Carolina,NC,37,141,37141,Pender County North Carolina
+1999,Floyd,280,LF1,AL081999,AL081999,35,52.5,70,9,16,630,15.3,-48.2,33.8,-78,90,956,NC,2,Georgetown County,South Carolina,SC,45,43,45043,Georgetown County South Carolina
+1999,Floyd,280,LF1,AL081999,AL081999,35,52.5,70,9,16,630,15.3,-48.2,33.8,-78,90,956,NC,2,Horry County,South Carolina,SC,45,51,45051,Horry County South Carolina
+2001,Allison,0,LF1,,,50,75,100,0,0,0,0,0,28.9,-95.3,0,0,Texas,0,Aransas County,Texas,TX,48,7,48007,Aransas County Texas
+2001,Allison,0,LF1,,,50,75,100,0,0,0,0,0,28.9,-95.3,0,0,Texas,0,Brazoria County,Texas,TX,48,39,48039,Brazoria County Texas
+2001,Allison,0,LF1,,,50,75,100,0,0,0,0,0,28.9,-95.3,0,0,Texas,0,Calhoun County,Texas,TX,48,57,48057,Calhoun County Texas
+2001,Allison,0,LF1,,,50,75,100,0,0,0,0,0,28.9,-95.3,0,0,Texas,0,Chambers County,Texas,TX,48,71,48071,Chambers County Texas
+2001,Allison,0,LF1,,,50,75,100,0,0,0,0,0,28.9,-95.3,0,0,Texas,0,Galveston County,Texas,TX,48,167,48167,Galveston County Texas
+2001,Allison,0,LF1,,,50,75,100,0,0,0,0,0,28.9,-95.3,0,0,Texas,0,Harris County,Texas,TX,48,201,48201,Harris County Texas
+2001,Allison,0,LF1,,,50,75,100,0,0,0,0,0,28.9,-95.3,0,0,Texas,0,Jackson County,Texas,TX,48,239,48239,Jackson County Texas
+2001,Allison,0,LF1,,,50,75,100,0,0,0,0,0,28.9,-95.3,0,0,Texas,0,Jefferson County,Texas,TX,48,245,48245,Jefferson County Texas
+2001,Allison,0,LF1,,,50,75,100,0,0,0,0,0,28.9,-95.3,0,0,Texas,0,Matagorda County,Texas,TX,48,321,48321,Matagorda County Texas
+2001,Allison,0,LF1,,,50,75,100,0,0,0,0,0,28.9,-95.3,0,0,Texas,0,Refugio County,Texas,TX,48,391,48391,Refugio County Texas
+2001,Allison,0,LF1,,,50,75,100,0,0,0,0,0,28.9,-95.3,0,0,Texas,0,Victoria County,Texas,TX,48,469,48469,Victoria County Texas
+2003,Isabel,0,LF1,AL132003,AL132003,40,60,80,9,18,1700,0,0,34.9,-76.2,0,957,NC2,2,Beaufort County,North Carolina,NC,37,13,37013,Beaufort County North Carolina
+2003,Isabel,0,LF1,AL132003,AL132003,40,60,80,9,18,1700,0,0,34.9,-76.2,0,957,NC2,2,Bertie County,North Carolina,NC,37,15,37015,Bertie County North Carolina
+2003,Isabel,0,LF1,AL132003,AL132003,40,60,80,9,18,1700,0,0,34.9,-76.2,0,957,NC2,2,Carteret County,North Carolina,NC,37,31,37031,Carteret County North Carolina
+2003,Isabel,0,LF1,AL132003,AL132003,40,60,80,9,18,1700,0,0,34.9,-76.2,0,957,NC2,2,Craven County,North Carolina,NC,37,49,37049,Craven County North Carolina
+2003,Isabel,0,LF1,AL132003,AL132003,40,60,80,9,18,1700,0,0,34.9,-76.2,0,957,NC2,2,Dare County,North Carolina,NC,37,55,37055,Dare County North Carolina
+2003,Isabel,0,LF1,AL132003,AL132003,40,60,80,9,18,1700,0,0,34.9,-76.2,0,957,NC2,2,Hyde County,North Carolina,NC,37,95,37095,Hyde County North Carolina
+2003,Isabel,0,LF1,AL132003,AL132003,40,60,80,9,18,1700,0,0,34.9,-76.2,0,957,NC2,2,Onslow County,North Carolina,NC,37,133,37133,Onslow County North Carolina
+2003,Isabel,0,LF1,AL132003,AL132003,40,60,80,9,18,1700,0,0,34.9,-76.2,0,957,NC2,2,Pamlico County,North Carolina,NC,37,137,37137,Pamlico County North Carolina
+2003,Isabel,0,LF1,AL132003,AL132003,40,60,80,9,18,1700,0,0,34.9,-76.2,0,957,NC2,2,Tyrrell County,North Carolina,NC,37,177,37177,Tyrrell County North Carolina
+2003,Isabel,0,LF1,AL132003,AL132003,40,60,80,9,18,1700,0,0,34.9,-76.2,0,957,NC2,2,Washington County,North Carolina,NC,37,187,37187,Washington County North Carolina
+2004,Charley_1,285,LF1,AL032004_1,AL032004,5,7.5,10,8,13,1945,12.9,-65.3,26.6,-82.2,130,941,FL,4,Lee County,Florida,FL,12,71,12071,Lee County Florida
+2004,Charley_2,286,LF2,AL032004_2,AL032004,20,30,40,8,14,1400,12.9,-65.3,33,-79.4,70,992,SC,1,Charleston County,South Carolina,SC,45,19,45019,Charleston County South Carolina
+2004,Charley_2,286,LF2,AL032004_2,AL032004,20,30,40,8,14,1400,12.9,-65.3,33,-79.4,70,992,SC,1,Georgetown County,South Carolina,SC,45,43,45043,Georgetown County South Carolina
+2004,Frances,287,LF1,AL062004,AL062004,30,45,60,9,5,430,11.5,-39.8,27.2,-80.2,90,960,FL,2,Brevard County,Florida,FL,12,9,12009,Brevard County Florida
+2004,Frances,287,LF1,AL062004,AL062004,30,45,60,9,5,430,11.5,-39.8,27.2,-80.2,90,960,FL,2,Broward County,Florida,FL,12,11,12011,Broward County Florida
+2004,Frances,287,LF1,AL062004,AL062004,30,45,60,9,5,430,11.5,-39.8,27.2,-80.2,90,960,FL,2,Indian River County,Florida,FL,12,61,12061,Indian River County Florida
+2004,Frances,287,LF1,AL062004,AL062004,30,45,60,9,5,430,11.5,-39.8,27.2,-80.2,90,960,FL,2,Martin County,Florida,FL,12,85,12085,Martin County Florida
+2004,Frances,287,LF1,AL062004,AL062004,30,45,60,9,5,430,11.5,-39.8,27.2,-80.2,90,960,FL,2,Palm Beach County,Florida,FL,12,99,12099,Palm Beach County Florida
+2004,Frances,287,LF1,AL062004,AL062004,30,45,60,9,5,430,11.5,-39.8,27.2,-80.2,90,960,FL,2,St. Lucie County,Florida,FL,12,111,12111,St Lucie County Florida
+2004,Ivan,289,LF1,AL092004,AL092004,25,37.5,50,9,16,650,9.7,-30.3,30.2,-87.9,105,946,AL,3,Baldwin County,Alabama,AL,1,3,1003,Baldwin County Alabama
+2004,Ivan,289,LF1,AL092004,AL092004,25,37.5,50,9,16,650,9.7,-30.3,30.2,-87.9,105,946,AL,3,Mobile County,Alabama,AL,1,97,1097,Mobile County Alabama
+2004,Ivan,289,LF1,AL092004,AL092004,25,37.5,50,9,16,650,9.7,-30.3,30.2,-87.9,105,946,AL,3,Escambia County,Florida,FL,12,33,12033,Escambia County Florida
+2004,Ivan,289,LF1,AL092004,AL092004,25,37.5,50,9,16,650,9.7,-30.3,30.2,-87.9,105,946,AL,3,Santa Rosa County,Florida,FL,12,113,12113,Santa Rosa County Florida
+2004,Ivan,289,LF1,AL092004,AL092004,25,37.5,50,9,16,650,9.7,-30.3,30.2,-87.9,105,946,AL,3,Jackson County,Mississippi,MS,28,59,28059,Jackson County Mississippi
+2004,Jeanne,290,LF1,AL112004,AL112004,45,67.5,90,9,26,400,16.4,-62.6,27.2,-80.2,105,950,FL,3,Brevard County,Florida,FL,12,9,12009,Brevard County Florida
+2004,Jeanne,290,LF1,AL112004,AL112004,45,67.5,90,9,26,400,16.4,-62.6,27.2,-80.2,105,950,FL,3,Broward County,Florida,FL,12,11,12011,Broward County Florida
+2004,Jeanne,290,LF1,AL112004,AL112004,45,67.5,90,9,26,400,16.4,-62.6,27.2,-80.2,105,950,FL,3,Charlotte County,Florida,FL,12,15,12015,Charlotte County Florida
+2004,Jeanne,290,LF1,AL112004,AL112004,45,67.5,90,9,26,400,16.4,-62.6,27.2,-80.2,105,950,FL,3,Collier County,Florida,FL,12,21,12021,Collier County Florida
+2004,Jeanne,290,LF1,AL112004,AL112004,45,67.5,90,9,26,400,16.4,-62.6,27.2,-80.2,105,950,FL,3,Indian River County,Florida,FL,12,61,12061,Indian River County Florida
+2004,Jeanne,290,LF1,AL112004,AL112004,45,67.5,90,9,26,400,16.4,-62.6,27.2,-80.2,105,950,FL,3,Lee County,Florida,FL,12,71,12071,Lee County Florida
+2004,Jeanne,290,LF1,AL112004,AL112004,45,67.5,90,9,26,400,16.4,-62.6,27.2,-80.2,105,950,FL,3,Martin County,Florida,FL,12,85,12085,Martin County Florida
+2004,Jeanne,290,LF1,AL112004,AL112004,45,67.5,90,9,26,400,16.4,-62.6,27.2,-80.2,105,950,FL,3,Miami-Dade County,Florida,FL,12,86,12086,Miami-Dade County Florida
+2004,Jeanne,290,LF1,AL112004,AL112004,45,67.5,90,9,26,400,16.4,-62.6,27.2,-80.2,105,950,FL,3,Palm Beach County,Florida,FL,12,99,12099,Palm Beach County Florida
+2004,Jeanne,290,LF1,AL112004,AL112004,45,67.5,90,9,26,400,16.4,-62.6,27.2,-80.2,105,950,FL,3,St. Lucie County,Florida,FL,12,111,12111,St Lucie County Florida
+2005,Katrina_1,293,LF1,AL122005_1,AL122005,15,22.5,30,8,25,2230,24.5,-76.5,26,-80.1,70,984,FL,1,Broward County,Florida,FL,12,11,12011,Broward County Florida
+2005,Katrina_1,293,LF1,AL122005_1,AL122005,15,22.5,30,8,25,2230,24.5,-76.5,26,-80.1,70,984,FL,1,Miami-Dade County,Florida,FL,12,86,12086,Miami-Dade County Florida
+2005,Katrina_1,293,LF1,AL122005_1,AL122005,15,22.5,30,8,25,2230,24.5,-76.5,26,-80.1,70,984,FL,1,Palm Beach County,Florida,FL,12,99,12099,Palm Beach County Florida
+2005,Katrina_2,294,LF2,AL122005_2,AL122005,20,30,40,8,29,1110,24.5,-76.5,29.3,-89.6,110,920,LA,3,Jefferson Parish,Louisiana,LA,22,51,22051,Jefferson Parish Louisiana
+2005,Katrina_2,294,LF2,AL122005_2,AL122005,20,30,40,8,29,1110,24.5,-76.5,29.3,-89.6,110,920,LA,3,Lafourche Parish,Louisiana,LA,22,57,22057,Lafourche Parish Louisiana
+2005,Katrina_2,294,LF2,AL122005_2,AL122005,20,30,40,8,29,1110,24.5,-76.5,29.3,-89.6,110,920,LA,3,Plaquemines Parish,Louisiana,LA,22,75,22075,Plaquemines Parish Louisiana
+2005,Katrina_2,294,LF2,AL122005_2,AL122005,20,30,40,8,29,1110,24.5,-76.5,29.3,-89.6,110,920,LA,3,St. Bernard Parish,Louisiana,LA,22,87,22087,St Bernard Parish Louisiana
+2005,Rita,295,LF1,AL182005,AL182005,20,30,40,9,24,740,22.2,-72.3,29.7,-93.7,100,937,LA,3,Cameron Parish,Louisiana,LA,22,23,22023,Cameron Parish Louisiana
+2005,Rita,295,LF1,AL182005,AL182005,20,30,40,9,24,740,22.2,-72.3,29.7,-93.7,100,937,LA,3,Chambers County,Texas,TX,48,71,48071,Chambers County Texas
+2005,Rita,295,LF1,AL182005,AL182005,20,30,40,9,24,740,22.2,-72.3,29.7,-93.7,100,937,LA,3,Jefferson County,Texas,TX,48,245,48245,Jefferson County Texas
+2005,Wilma,296,LF1,AL252005,AL252005,25,37.5,50,10,24,1030,16.9,-79.6,25.9,-81.7,105,950,FL,3,Broward County,Florida,FL,12,11,12011,Broward County Florida
+2005,Wilma,296,LF1,AL252005,AL252005,25,37.5,50,10,24,1030,16.9,-79.6,25.9,-81.7,105,950,FL,3,Collier County,Florida,FL,12,21,12021,Collier County Florida
+2005,Wilma,296,LF1,AL252005,AL252005,25,37.5,50,10,24,1030,16.9,-79.6,25.9,-81.7,105,950,FL,3,Lee County,Florida,FL,12,71,12071,Lee County Florida
+2005,Wilma,296,LF1,AL252005,AL252005,25,37.5,50,10,24,1030,16.9,-79.6,25.9,-81.7,105,950,FL,3,Miami-Dade County,Florida,FL,12,86,12086,Miami-Dade County Florida
+2005,Wilma,296,LF1,AL252005,AL252005,25,37.5,50,10,24,1030,16.9,-79.6,25.9,-81.7,105,950,FL,3,Monroe County,Florida,FL,12,87,12087,Monroe County Florida
+2008,Gustav,0,LF1,AL072008,AL072008,25,37.5,50,9,1,1500,0,0,29.2,-90.7,90,954,LA2,2,Jefferson Parish,Louisiana,LA,22,51,22051,Jefferson Parish Louisiana
+2008,Gustav,0,LF1,AL072008,AL072008,25,37.5,50,9,1,1500,0,0,29.2,-90.7,90,954,LA2,2,Lafourche Parish,Louisiana,LA,22,57,22057,Lafourche Parish Louisiana
+2008,Gustav,0,LF1,AL072008,AL072008,25,37.5,50,9,1,1500,0,0,29.2,-90.7,90,954,LA2,2,Plaquemines Parish,Louisiana,LA,22,75,22075,Plaquemines Parish Louisiana
+2008,Gustav,0,LF1,AL072008,AL072008,25,37.5,50,9,1,1500,0,0,29.2,-90.7,90,954,LA2,2,St. Mary Parish,Louisiana,LA,22,101,22101,St Mary Parish Louisiana
+2008,Gustav,0,LF1,AL072008,AL072008,25,37.5,50,9,1,1500,0,0,29.2,-90.7,90,954,LA2,2,Terrebonne Parish,Louisiana,LA,22,109,22109,Terrebonne Parish Louisiana
+2008,Ike,300,LF1,AL092008,AL092008,30,45,60,9,13,700,17.3,-38.4,29.3,-94.7,95,950,TX,2,Cameron Parish,Louisiana,LA,22,23,22023,Cameron Parish Louisiana
+2008,Ike,300,LF1,AL092008,AL092008,30,45,60,9,13,700,17.3,-38.4,29.3,-94.7,95,950,TX,2,Brazoria County,Texas,TX,48,39,48039,Brazoria County Texas
+2008,Ike,300,LF1,AL092008,AL092008,30,45,60,9,13,700,17.3,-38.4,29.3,-94.7,95,950,TX,2,Chambers County,Texas,TX,48,71,48071,Chambers County Texas
+2008,Ike,300,LF1,AL092008,AL092008,30,45,60,9,13,700,17.3,-38.4,29.3,-94.7,95,950,TX,2,Galveston County,Texas,TX,48,167,48167,Galveston County Texas
+2008,Ike,300,LF1,AL092008,AL092008,30,45,60,9,13,700,17.3,-38.4,29.3,-94.7,95,950,TX,2,Harris County,Texas,TX,48,201,48201,Harris County Texas
+2008,Ike,300,LF1,AL092008,AL092008,30,45,60,9,13,700,17.3,-38.4,29.3,-94.7,95,950,TX,2,Jefferson County,Texas,TX,48,245,48245,Jefferson County Texas
+2008,Ike,300,LF1,AL092008,AL092008,30,45,60,9,13,700,17.3,-38.4,29.3,-94.7,95,950,TX,2,Matagorda County,Texas,TX,48,321,48321,Matagorda County Texas
+2011,Irene,301,LF1,AL092011,AL092011,45,67.5,90,8,27,1200,15,-59,34.7,-76.6,75,952,NC,1,Beaufort County,North Carolina,NC,37,13,37013,Beaufort County North Carolina
+2011,Irene,301,LF1,AL092011,AL092011,45,67.5,90,8,27,1200,15,-59,34.7,-76.6,75,952,NC,1,Bertie County,North Carolina,NC,37,15,37015,Bertie County North Carolina
+2011,Irene,301,LF1,AL092011,AL092011,45,67.5,90,8,27,1200,15,-59,34.7,-76.6,75,952,NC,1,Brunswick County,North Carolina,NC,37,19,37019,Brunswick County North Carolina
+2011,Irene,301,LF1,AL092011,AL092011,45,67.5,90,8,27,1200,15,-59,34.7,-76.6,75,952,NC,1,Carteret County,North Carolina,NC,37,31,37031,Carteret County North Carolina
+2011,Irene,301,LF1,AL092011,AL092011,45,67.5,90,8,27,1200,15,-59,34.7,-76.6,75,952,NC,1,Craven County,North Carolina,NC,37,49,37049,Craven County North Carolina
+2011,Irene,301,LF1,AL092011,AL092011,45,67.5,90,8,27,1200,15,-59,34.7,-76.6,75,952,NC,1,Dare County,North Carolina,NC,37,55,37055,Dare County North Carolina
+2011,Irene,301,LF1,AL092011,AL092011,45,67.5,90,8,27,1200,15,-59,34.7,-76.6,75,952,NC,1,Hyde County,North Carolina,NC,37,95,37095,Hyde County North Carolina
+2011,Irene,301,LF1,AL092011,AL092011,45,67.5,90,8,27,1200,15,-59,34.7,-76.6,75,952,NC,1,New Hanover County,North Carolina,NC,37,129,37129,New Hanover County North Carolina
+2011,Irene,301,LF1,AL092011,AL092011,45,67.5,90,8,27,1200,15,-59,34.7,-76.6,75,952,NC,1,Onslow County,North Carolina,NC,37,133,37133,Onslow County North Carolina
+2011,Irene,301,LF1,AL092011,AL092011,45,67.5,90,8,27,1200,15,-59,34.7,-76.6,75,952,NC,1,Pamlico County,North Carolina,NC,37,137,37137,Pamlico County North Carolina
+2011,Irene,301,LF1,AL092011,AL092011,45,67.5,90,8,27,1200,15,-59,34.7,-76.6,75,952,NC,1,Pender County,North Carolina,NC,37,141,37141,Pender County North Carolina
+2011,Irene,301,LF1,AL092011,AL092011,45,67.5,90,8,27,1200,15,-59,34.7,-76.6,75,952,NC,1,Tyrrell County,North Carolina,NC,37,177,37177,Tyrrell County North Carolina
+2011,Irene,301,LF1,AL092011,AL092011,45,67.5,90,8,27,1200,15,-59,34.7,-76.6,75,952,NC,1,Washington County,North Carolina,NC,37,187,37187,Washington County North Carolina
+2012,Sandy,0,IL2,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,New Haven County,Connecticut,CT,9,9,9009,New Haven County Connecticut
+2012,Sandy,0,LF1,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,Atlantic County,New Jersey,NJ,34,1,34001,Atlantic County New Jersey
+2012,Sandy,0,LF1,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,Cape May County,New Jersey,NJ,34,9,34009,Cape May County New Jersey
+2012,Sandy,0,LF1,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,Cumberland County,New Jersey,NJ,34,11,34011,Cumberland County New Jersey
+2012,Sandy,0,LF1,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,Essex County,New Jersey,NJ,34,13,34013,Essex County New Jersey
+2012,Sandy,0,LF1,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,Hudson County,New Jersey,NJ,34,17,34017,Hudson County New Jersey
+2012,Sandy,0,LF1,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,Middlesex County,New Jersey,NJ,34,23,34023,Middlesex County New Jersey
+2012,Sandy,0,LF1,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,Monmouth County,New Jersey,NJ,34,25,34025,Monmouth County New Jersey
+2012,Sandy,0,LF1,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,Ocean County,New Jersey,NJ,34,29,34029,Ocean County New Jersey
+2012,Sandy,0,LF1,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,Salem County,New Jersey,NJ,34,33,34033,Salem County New Jersey
+2012,Sandy,0,LF1,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,Union County,New Jersey,NJ,34,39,34039,Union County New Jersey
+2012,Sandy,0,IL1,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,Bronx County,New York,NY,36,5,36005,Bronx County New York
+2012,Sandy,0,IL1,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,Kings County,New York,NY,36,47,36047,Kings County New York
+2012,Sandy,0,IL1,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,Nassau County,New York,NY,36,59,36059,Nassau County New York
+2012,Sandy,0,IL1,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,New York County,New York,NY,36,61,36061,New York County New York
+2012,Sandy,0,IL1,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,Queens County,New York,NY,36,81,36081,Queens County New York
+2012,Sandy,0,IL1,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,Richmond County,New York,NY,36,85,36085,Richmond County New York
+2012,Sandy,0,IL1,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,Suffolk County,New York,NY,36,103,36103,Suffolk County New York
+2012,Sandy,0,IL1,AL182012,AL182012,80,120,160,10,29,2330,12.7,-78.7,39.4,-74.4,70,945,NJ,1,Westchester County,New York,NY,36,119,36119,Westchester County New York
+2016,Matthew,305,LF1,AL142016,AL142016,25,37.5,50,10,8,1500,13.4,-59.8,33,-79.5,75,963,SC,1,Charleston County,South Carolina,SC,45,19,45019,Charleston County South Carolina
+2016,Matthew,305,LF2,AL142016,AL142016,25,37.5,50,10,8,1500,13.4,-59.8,33,-79.5,75,963,SC,1,Georgetown County,South Carolina,SC,45,43,45043,Georgetown County South Carolina
+2016,Matthew,305,LF3,AL142016,AL142016,25,37.5,50,10,8,1500,13.4,-59.8,33,-79.5,75,963,SC,1,Horry County,South Carolina,SC,45,51,45051,Horry County South Carolina
+2017,Harvey,306,LF1,AL092017,AL092017,10,15,20,8,26,300,13,-55,28,-96.9,115,937,TX,4,Aransas County,Texas,TX,48,7,48007,Aransas County Texas
+2017,Harvey,306,LF1,AL092017,AL092017,10,15,20,8,26,300,13,-55,28,-96.9,115,937,TX,4,Calhoun County,Texas,TX,48,57,48057,Calhoun County Texas
+2017,Harvey,306,LF1,AL092017,AL092017,10,15,20,8,26,300,13,-55,28,-96.9,115,937,TX,4,Nueces County,Texas,TX,48,355,48355,Nueces County Texas
+2017,Harvey,306,LF1,AL092017,AL092017,10,15,20,8,26,300,13,-55,28,-96.9,115,937,TX,4,Refugio County,Texas,TX,48,391,48391,Refugio County Texas
+2017,Harvey,306,LF1,AL092017,AL092017,10,15,20,8,26,300,13,-55,28,-96.9,115,937,TX,4,San Patricio County,Texas,TX,48,409,48409,San Patricio County Texas
+2017,Irma_1,307,LF1,AL112017_1,AL112017,10,15,20,9,10,1300,16.2,-28.3,24.7,-81.5,115,931,FL,4,Monroe County,Florida,FL,12,87,12087,Monroe County Florida
+2017,Irma_2,0,LF1,AL112017_2,AL112017,15,22.5,30,9,10,1930,16.2,-28.3,25.9,-81.7,100,936,FL,3,Collier County,Florida,FL,12,21,12021,Collier County Florida
+2017,Irma_2,0,LF1,AL112017_2,AL112017,15,22.5,30,9,10,1930,16.2,-28.3,25.9,-81.7,100,936,FL,3,Lee County,Florida,FL,12,71,12071,Lee County Florida
+2017,Irma_2,0,LF1,AL112017_2,AL112017,15,22.5,30,9,10,1930,16.2,-28.3,25.9,-81.7,100,936,FL,3,Monroe County,Florida,FL,12,87,12087,Monroe County Florida
+2018,Florence,0,LF1,AL062018,AL062018,25,37.5,50,9,14,1115,14.3,-26.1,34.2,-77.8,80,956,NC,1,Brunswick County,North Carolina,NC,37,19,37019,Brunswick County North Carolina
+2018,Florence,0,LF1,AL062018,AL062018,25,37.5,50,9,14,1115,14.3,-26.1,34.2,-77.8,80,956,NC,1,New Hanover County,North Carolina,NC,37,129,37129,New Hanover County North Carolina
+2018,Florence,0,LF1,AL062018,AL062018,25,37.5,50,9,14,1115,14.3,-26.1,34.2,-77.8,80,956,NC,1,Onslow County,North Carolina,NC,37,133,37133,Onslow County North Carolina
+2018,Florence,0,LF1,AL062018,AL062018,25,37.5,50,9,14,1115,14.3,-26.1,34.2,-77.8,80,956,NC,1,Pender County,North Carolina,NC,37,141,37141,Pender County North Carolina
+2018,Michael,0,LF1,AL142018,AL142018,10,15,20,14,10,1730,18.8,-86.4,30,-85.5,140,919,FL,5,Bay County,Florida,FL,12,5,12005,Bay County Florida
+2018,Michael,0,LF1,AL142018,AL142018,10,15,20,14,10,1730,18.8,-86.4,30,-85.5,140,919,FL,5,Gulf County,Florida,FL,12,45,12045,Gulf County Florida
+2020,Laura,0,LF1,AL132020,AL132020,15,22.5,30,13,8,600,17,-59.4,29.8,-93.3,130,939,LA,4,Cameron Parish,Louisiana,LA,22,23,22023,Cameron Parish Louisiana
+2020,Sally,0,LF1,AL192020,AL192020,15,22.5,30,9,16,945,0,0,30.3,-87.7,95,965,"AFL2,AL2",2,Baldwin County,Alabama,AL,1,3,1003,Baldwin County Alabama
+2020,Sally,0,LF1,AL192020,AL192020,15,22.5,30,9,16,945,0,0,30.3,-87.7,95,965,"AFL2,AL2",2,Mobile County,Alabama,AL,1,97,1097,Mobile County Alabama
+2020,Sally,0,LF1,AL192020,AL192020,15,22.5,30,9,16,945,0,0,30.3,-87.7,95,965,"AFL2,AL2",2,Escambia County,Florida,FL,12,33,12033,Escambia County Florida
+2021,Ida,0,LF1,AL092021,AL092021,10,15,20,8,29,1655,17.4,-79.5,29.1,-90.2,130,931,LA,4,Jefferson Parish,Louisiana,LA,22,51,22051,Jefferson Parish Louisiana
+2021,Ida,0,LF1,AL092021,AL092021,10,15,20,8,29,1655,17.4,-79.5,29.1,-90.2,130,931,LA,4,Lafourche Parish,Louisiana,LA,22,57,22057,Lafourche Parish Louisiana
+2021,Ida,0,LF1,AL092021,AL092021,10,15,20,8,29,1655,17.4,-79.5,29.1,-90.2,130,931,LA,4,Terrebonne Parish,Louisiana,LA,22,109,22109,Terrebonne Parish Louisiana
+2022,Ian,0,LF1,AL092022,AL092022,20,30,40,9,28,1905,14.7,-71.7,26.7,-82.2,130,941,FL,4,Charlotte County,Florida,FL,12,15,12015,Charlotte County Florida
+2022,Ian,0,LF1,AL092022,AL092022,20,30,40,9,28,1905,14.7,-71.7,26.7,-82.2,130,941,FL,4,Collier County,Florida,FL,12,21,12021,Collier County Florida
+2022,Ian,0,LF1,AL092022,AL092022,20,30,40,9,28,1905,14.7,-71.7,26.7,-82.2,130,941,FL,4,Lee County,Florida,FL,12,71,12071,Lee County Florida
+2022,Ian,0,LF1,AL092022,AL092022,20,30,40,9,28,1905,14.7,-71.7,26.7,-82.2,130,941,FL,4,Manatee County,Florida,FL,12,81,12081,Manatee County Florida
+2022,Ian,0,LF1,AL092022,AL092022,20,30,40,9,28,1905,14.7,-71.7,26.7,-82.2,130,941,FL,4,Sarasota County,Florida,FL,12,115,12115,Sarasota County Florida
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
