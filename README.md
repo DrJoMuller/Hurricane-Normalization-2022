@@ -53,6 +53,12 @@ Landsea, C.W., J.L Franklin, J.L. Beven, (April 2013). The revised Atlantic hurr
 
 Using Spatial tools in ArcGIS Pro, we identified coastal counties that fell within the RMW field for each historic storm. This data is available in CSV file “7: GIS Generated Counties in RMW”
 
+For some storms reported inland losses are available. In these cases we use the population of the entire state for normalization. Therefore, several landfall IDs are noted in our github repository. They are defined as the following: 
+
+LF = Landfall. Here we use the spatial ArcGIS tool explained above to identify the coastal counties and we normalize that state loss to the population change in those coastal counties. 
+DIL = Direct Inland. This means the hurricane tracked over the state after landfall and in this case we use the entire state population to normalize this loss.
+ID = Indirect. This means the hurricane didnt not track directly over the state, however because a damage estimate is available we use the enture state popultion to normalize this loss. 
+
 We then obtained decadal county population data from the US Census Bureau and linearly interpolated between 1900-2000, while annual county data were available between 2000 and 2022 (Census, 2022):	
 U.S. Census Bureau, 2021: Historical Population Change Data (1910-2020), accessed September 30, 2023.
 
