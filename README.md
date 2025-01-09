@@ -78,5 +78,3 @@ f) Normalization Calculations
 For rankings of the top 50 storms by CL22 see CSV file “15: Top 50 CL22”. For rankings of the top 50 storms by PL22 see CSV file “16: Top 50 PL22”.
 To compare results between RM1 and RM2 normalization calculations see CSV file “17: Top 50 PL22”.
 
-g) Alicia Example
-Raw data from the Alicia normalization example are available in CSV file “18: Alicia Example”
